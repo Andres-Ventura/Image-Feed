@@ -11,6 +11,7 @@ for (let i = 0; i < rows * 3; i++){
     container.appendChild(img)
 }
 
+// Might add more functionality
 function getRandSize() {
     return `${getRandNum()} * ${getRandNum()}`
 }
